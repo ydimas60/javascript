@@ -1,68 +1,3 @@
-×
-type to search
-
- 
-Home ? Blogger
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Written By Komputerdia.com  Wednesday, 13 February 2019 
-
- 
-komputerdia.com - Apa itu Blog Safelink? Secara garis besarnya Blog safelink adalah situs converter atau pengubah suatu alamat link secara otomatis yang bisa disebut juga sebagai blog perantara untuk menuju ke situs tujuan akhir. 
-
-Pada umumnya, blog safelink ini sering kita jumpai pada blog atau situs yang mempunyai kategori download, nmaun saat ini teknik blog safelink ini telah banyak kita jumpai diberbagai kategori blog. Jika kalian telah terdaftar menjadi seorang publiher Advertising, maka blog safelink adalah altenatif yang cukup bisa menghasilkan.
-
-Baca Juga Artikel Menarik Lainnya:
-Cara Lengkap Membuat Blog Terbaru Disertai Dengan Gambar
-Cara Membuat dan Mengatur Custom Domain TLD Dewaweb Di Blogger
-Cara Membuat dan Mengatur Custom Domain TLD Rumahweb Di Blogger
-
-
- 
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-
-Cara Membuat Blog Safelink Di Blogger
-Fitur yang bisa kalian buat dengan blog safelink yang satu ini adalah :
-Custom Ads
-Anti banned AdSense
-High CTR dan BPK
-Pengerjaan yang mudah dan dapat dipahami pemula
-Fitur auto generate
-Visit link didalam artikel
-Untuk melihat hasil demo safelink bisa kalian lihat di Artikel ini dan silahkan kalian coba klik tombol downloadnya
-
- 
-Langkah - Langkah Pembuatan Blog Safelink
-Pertama silahkan kalian dowmload Template Safelink
-Buat blog baru dengan menggunakan blogspot
-Pasang kode template safelink yang sudah kalian download di blog baru tersebut, dengan cara klik kanan pada template tersebut kemudian pilih open with ? notepad .
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Silahkan copy kode template tersebut dan masukkan di menu Tema ? Edit Html dan simpan template tersebut
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Ubah setelah tampilan versi seluler menjadi seperti dibawah ini
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Masuk ke menu Setting / Setelan ? Dasar dan ubah Pengalihan HTTPS menjadi Ya
-Jika tidak disetting menjadi Ya juga tidak menjadi masalah, dalam tutorial ini saya tidak mengubahnya ke Ya
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Setelah itu, silahkan kalian buat artikel baru dan untuk bagian judul bisa kalian kosongkan atau juga bisa diisi dengan Please Wait
-Selanjutnya kalian arahkan pada bagian tab HTML dulu dan silahkan kalian copy kode dibawah ini
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<center>
-<h2 id="daplong" style="color: daplong;">
-Please Wait...</h2>
-<script src="http://yourjavascript.com/31521315663/401xd-download.js" type="text/javascript"></script> <script type="text/javascript">
-var currentURL=location.href;
-var str = currentURL;
-var res = str.replace("https://safelinkplitutnesia.blogspot.com/2019/10/direct-safelink.html?url=", "");
-document.write('<button id="download" class="Visit_Link" onclick="changeLink();" style="display: none;text-align:justify;margin-bottom:2px;">Visit Link</button>')
-</script></center>
-</div>
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Untuk http://yourjavascript.com/31521315663/401xd-download.js biarkan saja dulu jangan dirubah
-Untuk http://www.blog.safelink/2016/04/direct-safelink.html silahkan kalian isi dengan alamat link artikel ini, untuk mendapatkan link artikel yang kalian buat silahkan kalian atur pada menu tautan permanen kemudian pilih tautan permanen khusus dan buat alamat link kalian contohnya securelink
-Maka secara otomatis link akan langsung terbuat, silahkan copy link tersebut kemudian tekan tombol selesai dan ganti http://www.blog.safelink/2016/04/direct-safelink.html dengan link yang kalian buat di artikel tersebut, sehingga akan nampak seperti ini
-Cara Lengkap Membuat Blog Safelink Blogger Dengan Benar Work 100%
-Sampai disini kalian jangan dulu mempublikasikan artikel ini
-Langkah selanjutnya, silahkan kalian copy kode dibawah ini dan masukkan kedalam Notepad
 var Base64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(input){var output="";var chr1,chr2,chr3,enc1,enc2,enc3,enc4;var i=0;input=Base64._utf8_encode(input);while(i<input.length){chr1=input.charCodeAt(i++);chr2=input.charCodeAt(i++);chr3=input.charCodeAt(i++);enc1=chr1>>2;enc2=((chr1&3)<<4)|(chr2>>4);enc3=((chr2&15)<<2)|(chr3>>6);enc4=chr3&63;if(isNaN(chr2)){enc3=enc4=64;}else if(isNaN(chr3)){enc4=64;}
 output=output+ this._keyStr.charAt(enc1)+ this._keyStr.charAt(enc2)+ this._keyStr.charAt(enc3)+ this._keyStr.charAt(enc4);}
 return output;},decode:function(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,"");while(i<input.length){enc1=this._keyStr.indexOf(input.charAt(i++));enc2=this._keyStr.indexOf(input.charAt(i++));enc3=this._keyStr.indexOf(input.charAt(i++));enc4=this._keyStr.indexOf(input.charAt(i++));chr1=(enc1<<2)|(enc2>>4);chr2=((enc2&15)<<4)|(enc3>>2);chr3=((enc3&3)<<6)|enc4;output=output+ String.fromCharCode(chr1);if(enc3!=64){output=output+ String.fromCharCode(chr2);}
@@ -83,7 +18,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://securelink-lionparna.blogspot.com/2017/11/please-wait.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://safelinkplitutnesia.blogspot.com/p/generate.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
